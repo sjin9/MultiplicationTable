@@ -11,7 +11,7 @@
   "keywords": [],
   "scripts": {
     "test": "jest",
-    "test:watch": "jest --watch",
+    "test:watch": "jest --watch", 
     "lint": "eslint src test",
     "fix": "eslint src test --fix",
     "compile": "tsc",
